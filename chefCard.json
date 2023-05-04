@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "picture": "https://as1.ftcdn.net/v2/jpg/01/09/90/92/1000_F_109909275_mWyVzp8q1JLEc2lydnlH5qYHog5iGQct.jpg",
+        "name": "John Smith",
+        "description": "British chef and restaurateur known for his fiery temper and high culinary standards, as well as his popular TV shows such as Hell's Kitchen and MasterChef.", 
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 500,
+        "views": 10000
+        
+    },
+    {
+        "id": 2,
+        "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
+        "name": "Maria Rodriguez",
+        "description": "American chef and author who is best known for her cooking show Barefoot Contessa and her focus on using fresh, locally sourced ingredients."  ,
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 1000,
+        "views": 20000
+    },
+    {
+        "id": 3,
+        "picture": "https://t4.ftcdn.net/jpg/01/86/60/51/240_F_186605168_mNGYB4I4Ze9mn9q9kJr9jmobXfTjsFsU.jpg",
+        "name": "David Lee",
+        "description": "British chef and restaurateur who is known for his efforts to improve the quality of school meals and his TV shows such as The Naked Chef and Jamie's Kitchen." ,
+        "years_of_experience": 15,
+        "num_recipes": 100,
+        "likes": 1500,
+        "views": 30000
+    },
+    {
+        "id": 4,
+        "picture": "https://t3.ftcdn.net/jpg/01/62/54/88/240_F_162548807_8tLHPGm0OylfVVmSNxnxO111nsn8vygu.jpg",
+        "name": "Sophie Brown",
+        "description": "American chef and author who is known for her focus on using locally sourced, organic ingredients and for her restaurant Chez Panisse in Berkeley, California." ,
+        "years_of_experience": 5,
+        "num_recipes": 20,
+        "likes": 200,
+        "views": 5000
+    },
+    {
+        "id": 5,
+        "picture": "https://t4.ftcdn.net/jpg/02/75/08/67/240_F_275086757_IOm8iBG3AB0qFje2d0VsjhZo6U3mNXQW.jpg",
+        "name": "Andrew Kim",
+        "description": "Italian chef and restaurateur who is known for his innovative and creative approach to Italian cuisine, as well as his restaurant Osteria Francescana, which has been named the world's best restaurant multiple times." , 
+        "years_of_experience": 12,
+        "num_recipes": 80,
+        "likes": 800,
+        "views": 15000
+    },
+    {
+        "id": 6,
+        "picture": "https://t3.ftcdn.net/jpg/02/00/00/44/240_F_200004405_zMLJkfOm21NyeqfGAmrDxb2zTnL4hEzX.jpg",
+        "name": "Emily Chen",
+        "description": "Israeli-British chef, author, and restaurateur who is known for his focus on Mediterranean and Middle Eastern flavors, as well as his popular cookbooks and restaurants in London.",
+        "years_of_experience": 7,
+        "num_recipes": 30,
+        "likes": 300,
+        "views": 7000
+    }
+]

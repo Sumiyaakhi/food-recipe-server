@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti Bolognese",
+      "ingredients": "spaghetti, ground beef, onion, garlic, canned tomatoes, tomato paste, red wine, herbs, Parmesan cheese",
+      "method": "1. Cook the spaghetti according to package instructions. 2. Brown the ground beef in a large skillet. 3. Add onion and garlic and cook until softened. 4. Add canned tomatoes, tomato paste, and red wine. 5. Simmer until the sauce thickens. 6. Season with herbs and salt and pepper to taste. 7. Serve over the cooked spaghetti and sprinkle with Parmesan cheese.",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Chicken Curry",
+      "ingredients": "chicken breast, onion, garlic, ginger, curry powder, coconut milk, tomatoes, cilantro",
+      "method": "1. Heat oil in a large skillet. 2. Add onion, garlic, and ginger and cook until softened. 3. Add curry powder and cook for 1 minute. 4. Add chicken breast and cook until browned. 5. Add coconut milk and diced tomatoes. 6. Simmer until the chicken is cooked through. 7. Garnish with cilantro and serve over rice.",
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "ingredients": "romaine lettuce, croutons, Parmesan cheese, Caesar dressing",
+      "method": "1. Tear the romaine lettuce into bite-size pieces. 2. Add croutons and Parmesan cheese. 3. Toss with Caesar dressing. 4. Serve chilled.",
+      "rating": 3.8
+    },
+    {
+      "id": 4,
+      "name": "Beef Stir Fry",
+      "ingredients": "beef sirloin, bell peppers, onion, garlic, ginger, soy sauce, cornstarch, vegetable oil",
+      "method": "1. Cut the beef into thin strips. 2. Heat oil in a wok or large skillet. 3. Add the beef and cook until browned. 4. Remove the beef from the pan. 5. Add onion, bell peppers, garlic, and ginger and cook until softened. 6. Add soy sauce and cornstarch and stir to combine. 7. Add the beef back to the pan and stir to coat. 8. Serve over rice.",
+      "rating": 4.0
+    }
+  ]
+  

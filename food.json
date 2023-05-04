@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Burger",
+        "description": "A delicious burger with a juicy beef patty, melted cheese, lettuce, tomato, and onion on a toasted bun.",
+        "image": "https://example.com/burger.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pizza",
+        "description": "A classic pizza topped with tomato sauce, mozzarella cheese, and pepperoni.",
+        "image": "https://example.com/pizza.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Taco",
+        "description": "A crispy corn tortilla filled with seasoned ground beef, lettuce, tomato, cheese, and salsa.",
+        "image": "https://example.com/taco.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sushi",
+        "description": "A plate of assorted sushi rolls, including California rolls, tuna rolls, and salmon rolls.",
+        "image": "https://example.com/sushi.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pad Thai",
+        "description": "A stir-fried noodle dish with chicken, shrimp, bean sprouts, and peanuts in a sweet and savory sauce.",
+        "image": "https://example.com/pad-thai.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Fried Chicken",
+        "description": "Crispy and juicy fried chicken served with mashed potatoes, gravy, and a biscuit.",
+        "image": "https://example.com/fried-chicken.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Burrito",
+        "description": "A large flour tortilla filled with rice, beans, seasoned ground beef, cheese, and salsa.",
+        "image": "https://example.com/burrito.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Pho",
+        "description": "A Vietnamese soup with rice noodles, beef broth, sliced beef, and herbs.",
+        "image": "https://example.com/pho.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Pasta",
+        "description": "Spaghetti with meatballs and marinara sauce, topped with grated Parmesan cheese.",
+        "image": "https://example.com/pasta.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Fish and Chips",
+        "description": "Crispy fried fish served with French fries and tartar sauce.",
+        "image": "https://example.com/fish-and-chips.jpg"
+    }
+]
